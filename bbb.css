@@ -1,0 +1,64 @@
+
+.container {
+    margin-top: 100px auto;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(58, 57, 57);
+    border-radius: 19px;
+    padding: 20px;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.box-2 {
+background-color: rgb(92, 92, 92);
+font-weight: 700;
+font-size: large;
+color: white;
+
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 12%;
+    line-height: 2.5em;
+}
+
+.box-2 a {
+    color: aliceblue;
+
+}
+
+.profile-img {
+height: 130px;
+width: 130px;
+border-radius: 50%;
+object-fit: cover;
+margin-bottom: 20px
+}
+
+.box-1 h3 {
+margin: 10px
+ }
+
+.box-1 {     font-size: 1.5em; 
+
+}
+
+.socialLinks {
+    display: block;
+    background-color: rgb(92, 92, 92);
+    color: white;
+
+}
+
+.socialLinks a:hover {
+    background-color: #555;
+
+}
